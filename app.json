@@ -7,9 +7,9 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/DalinMathew",
-    "repository": "https://github.com/DalinMathew/AutoFilterBot",
-    "success_url": "https://t.me/jointhisdiscussion",
+    "website": "https://github.com/rokstar890",
+    "repository": "https://github.com/rokstar890/AutoFilterBot",
+    "success_url": "https://t.me/netflixvilla002",
     "env": {
         "APP_ID": {
             "description": "Your APP ID",
