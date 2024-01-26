@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎖️ Share Group 🎖️', url="https://t.me/share/url?url=https://t.me/jointhisdiscussion"
+                                    '🎖️ Share Group 🎖️', url="https://t.me/share/url?url=https://t.me/netflixvilla002"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎖️ Share Group 🎖️', url="https://t.me/share/url?url=https://t.me/jointhisdiscussion"
+                                    '🎖️ Share Group 🎖️', url="https://t.me/share/url?url=https://t.me/netflixvilla002"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎖️ Share Group 🎖️', url="https://t.me/share/url?url=https://t.me/jointhisdiscussion"
+                                    '🎖️ Share Group 🎖️', url="https://t.me/share/url?url=https://t.me/netflixvilla002"
                                 )
                         ]
                     ]
@@ -89,7 +89,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Our Group', url='https://t.me/jointhisdiscussion'),
+        InlineKeyboardButton('Our Group', url='https://t.me/netflixvilla002'),
         InlineKeyboardButton('Deploy Tutorial', url ='https://youtu.be/qW9o9G7stCk')
     ],[
         InlineKeyboardButton('Edit Tutorial', url='https://youtu.be/fisZ9z_QXNA')
